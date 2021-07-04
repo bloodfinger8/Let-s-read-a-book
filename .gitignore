@@ -1,2 +1,10 @@
 *.DS_Store
 .idea/
+
+# kotlin
+/kotlin/KotlinStudy/settings.gradle.kts
+/kotlin/KotlinStudy/build.gradle.kts
+/kotlin/KotlinStudy/gradlew.bat
+/kotlin/KotlinStudy/gradlew
+/kotlin/KotlinStudy/gradle.properties
+/kotlin/KotlinStudy/.gradle/
